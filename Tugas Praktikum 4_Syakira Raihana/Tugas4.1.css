@@ -1,0 +1,57 @@
+.legend1 {
+    font-size: small;
+    font-family: cursive;
+}
+.div1 {
+    display: flex;
+    margin-top: 5mm;
+}
+.image1 {
+    display: block;
+    height: 200;
+    padding-left: 10%;
+    padding-top: 1%;
+}
+.profile {
+    font-family: cursive;
+    font-size: large;
+    padding-left: 5%;
+    padding-top: 1%;
+}
+.profile1 {
+    font-size:xx-large
+}
+.aside {
+    font-family: cursive;
+    padding-left: 25%;
+    padding-top: 1%;
+}
+.div2 {
+    font-family: cursive;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+}
+.title {
+    font-size: x-large;
+}
+.div3 {
+    display: flex;
+    padding-top: 3%;
+    padding-left: 5%;
+    width: 900;
+    height: 409; 
+}
+.ul {
+    list-style-type:none;
+    padding-left: 4%;
+    padding-top: 3%;
+}
+.div4 {
+    padding-left: 4%;
+    padding-top: 3%;
+}
+.div5 {
+    padding-top: 3%;
+    padding-left: 5%
+}
